@@ -14,5 +14,6 @@ class AddressForm extends React.Component{
             error: ''
         }
     }
+    
 }    
 export default AddressForm
